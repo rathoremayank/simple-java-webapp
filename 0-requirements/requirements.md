@@ -21,8 +21,8 @@ A lightweight web application built with Java that displays a message "hello fro
 
 ### NFR1: Technology Stack
 - **Language**: Java
-- **Framework**: Spring Boot (recommended) or vanilla Java with embedded servlet container
-- **Build Tool**: Maven or Gradle
+- **Framework**: Spring Boot (recommended)
+- **Build Tool**: Maven 
 
 ### NFR2: Performance
 - Response time for displaying the message SHALL be under 500ms
